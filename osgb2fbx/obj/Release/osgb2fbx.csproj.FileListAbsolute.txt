@@ -1,0 +1,9 @@
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\bin\Release\osgb2fbx.exe.config
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\bin\Release\osgb2fbx.exe
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\bin\Release\osgb2fbx.pdb
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\obj\Release\osgb2fbx.csprojResolveAssemblyReference.cache
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\obj\Release\osgb2fbx.数据转换器.resources
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\obj\Release\osgb2fbx.Properties.Resources.resources
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\obj\Release\osgb2fbx.csproj.GenerateResource.Cache
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\obj\Release\osgb2fbx.exe
+D:\BaiduNetdiskDownload\osgb2fbx\osgb2fbx\obj\Release\osgb2fbx.pdb
